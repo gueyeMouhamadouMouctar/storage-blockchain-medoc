@@ -1,0 +1,20 @@
+
+deploiement---> 
+
+
+
+
+
+
+---> add medicament
+gas used	242 400 
+gas price	3 106 628 944
+
+
+--> add on pra
+gas used	109 877
+gas price	3 036 269 213
+
+get historique
+gas used	62 183
+gasprice	2 971 427 018
